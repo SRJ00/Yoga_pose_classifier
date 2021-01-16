@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Yoga_pose_class.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True yoga_pose_class.ipynb
