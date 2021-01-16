@@ -1,0 +1,2 @@
+cp /notebooks/fastbook/clean/export.pkl  .
+cp /notebooks/fastbook/clean/yoga_pose_class.ipynb
