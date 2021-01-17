@@ -2,6 +2,6 @@
 
 # Classify your Yoga Pose
 
-This is a github project for building your binder. This is based on the [instructions posted on the fastai forums here](https://forums.fast.ai/t/deploying-your-notebook-as-an-app-under-10-minutes/70621?u=butchland).
+ This is based on the [instructions posted on the fastai forums here](https://forums.fast.ai/t/deploying-your-notebook-as-an-app-under-10-minutes/70621?u=butchland).
 
 
